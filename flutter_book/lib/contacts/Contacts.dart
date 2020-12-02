@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_book/appointments/AppointmentsList.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'ContactsDBWorker.dart';
 import 'ContactsEntry.dart';
@@ -7,7 +6,7 @@ import 'ContactsList.dart';
 import 'ContactsModel.dart' show ContactsModel, contactsModel;
 
 class Contacts extends StatelessWidget {
-  Tasks(){
+  Contacts(){
     contactsModel.loadData("appointments", ContactsDBWorker.db);
   }
   Widget build(BuildContext inContext){

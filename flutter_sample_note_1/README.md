@@ -6,4 +6,4 @@
 
 ### 	● Flutter 사용
 
-![flutter_sample_note_1](.\images\flutter_sample_note_1.png)
+![flutter_sample_note_1](..\images\flutter_sample_note_1.png)

@@ -12,7 +12,7 @@
 
 ### 	● Flutter 사용
 
-![flutter_sample_note_1](.\images\flutter_sample_note_1.png)
+![flutter_sample_note_1](./images/flutter_sample_note_1.png)
 
 
 
@@ -24,4 +24,4 @@
 
 ### 	● Flutter 사용
 
-![flutter_sample_bookstore](.\images\flutter_sample_bookstore.png)
+![flutter_sample_bookstore](./images/flutter_sample_bookstore.png)

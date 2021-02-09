@@ -1,16 +1,27 @@
-# flutter_sample_movie
+## flutter_sample_movie
 
-A new Flutter application.
+### 웹 크롤링을 이용한 영화 앱
 
-## Getting Started
+### ● 제작 인원 
 
-This project is a starting point for a Flutter application.
+#### 	- 1명
 
-A few resources to get you started if this is your first Flutter project:
+### ● 제작 기간 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### 	- 일주일
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ● 용도 
+
+#### 	- 영화 찾기
+
+### ● 기능
+
+ - #### 영화 찾기
+
+ - #### 현재 상영 중인 영화 및 개봉 예정 영화들 확인 가능
+
+ - #### 개별 영화를 클릭하면, 예고편 감상 및 출연진 확인 가능
+
+### 	● Flutter 사용
+
+![flutter_sample_movie](../images/flutter_sample_movie.png)

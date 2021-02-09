@@ -6,4 +6,4 @@
 
 ### 	● Flutter 사용
 
-![flutter_sample_bookstore](C:\practice\flutter_practice\images\flutter_sample_bookstore.png)
+![flutter_sample_bookstore](../images/flutter_sample_bookstore.png)
